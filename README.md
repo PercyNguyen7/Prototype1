@@ -1,5 +1,5 @@
 # Prototype 1: Run the Show Baby
-
+Scene file is in Week 4 Prototype -> Assets -> Scenes -> SampleScene.unity
 Game note: Please enable audio while playing! 
 
 **Controls**
