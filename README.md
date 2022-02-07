@@ -1,4 +1,4 @@
-# Prototype 1: Run the Show
+# Prototype 1: Run the Show Baby
 
 Please enable audio while playing! WASD to move.
 
