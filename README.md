@@ -9,3 +9,4 @@ Please enable audio while playing! WASD to move.
 3. Could you rank the obstacles (coins challenge) in order in terms of difficulty with 1 being easiest and 5 being hardest?
 4. Are there any bugs/glitches that you came accross (i.e immobolized between object, stuck inside the tunnel with no way to get back on track,...)? 
 5. What component do you wish should have been implemented/altered to improve the experience? 
+6. Any other note you would like to tell me?
