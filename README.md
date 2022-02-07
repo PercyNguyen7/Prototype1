@@ -1,4 +1,4 @@
-# Prototype 1: Run the Show Baby
+# Prototype 1: Run the Show
 Scene file is in Week 4 Prototype -> Assets -> Scenes -> SampleScene.unity
 Game note: Please enable audio while playing! 
 
@@ -15,3 +15,11 @@ Your invaluable feedback is well appreciated :)
 5. What component do you wish should have been implemented/altered to improve the experience? 
 6. What was your initial reaction to this game?
 7. Optional: Any other note you would like to tell me?
+
+**Credits**
+Space soundtrack by AshamaluevMusic:
+https://www.youtube.com/watch?v=JiHWqzOSLzg&t=1s
+
+Fire burning sound effect by Sound Effect Database:
+https://www.youtube.com/watch?v=j428Qb49IHs
+
