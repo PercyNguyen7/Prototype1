@@ -14,4 +14,4 @@ Your invaluable feedback is well appreciated :)
 4. Are there any bugs/glitches that you came accross (i.e immobolized between object, stuck inside the tunnel with no way to get back on track,...)? 
 5. What component do you wish should have been implemented/altered to improve the experience? 
 6. What was your initial reaction to this game?
-7. Optional: Any other message you would like to tell me?
+7. Optional: Any other note you would like to tell me?
